@@ -1,4 +1,4 @@
-# piramide
+# Piramide
 Piramide, un programma 
 
 ## Descrizione del progretto
