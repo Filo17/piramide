@@ -1,5 +1,5 @@
 # Piramide
-Piramide, un programma 
+Piramide è un esercizio che permette di calcolare il numero di blocchi di cemento necessari alla costruzione di una piramide
 
 ## Descrizione del progretto
 
@@ -54,17 +54,15 @@ Questo pezzo di codice serve per controllare che il numero di mattoni non sia mi
 Questo pezzo di codice calcola il numero di piani della piramide
 </details>
   
-  
 <details>
 <summary>Calcolo eccesso</summary>
-  
+
 ```c#
- stesso codice di prima,però non funziona
+    //codice assente
 ```
 
-Questo pezzo di codice calcola il numero di piani della piramide
+Questo pezzo di codice calcola il numero di mattoni in eccesso.
 </details>
-  
   
 
   
